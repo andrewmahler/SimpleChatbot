@@ -1,4 +1,1 @@
-Readme for simple Chatbot
-# SimpleChatbot
-# SimpleChatbot
-# SimpleChatbot
+This is a simple chatbot that I created in my Artificial Intelligence classes. It uses a corpus of papers that we wrote at the beggining of the semester, and this corpus allows us to analyze conditional probabilities between word usage in order to make the chatbot work.
